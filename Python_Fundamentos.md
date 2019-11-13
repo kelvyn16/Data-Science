@@ -29,3 +29,9 @@ Exemplos:
 * Pandas - Biblioteca de manipulação e análise de daddos;
 * NumPy - é um pacote para a linguagem Python que suporta arrays e matrizes multidimensionais, possuindo uma larga coleção de funções matemáticas para trabalhar com estas estruturas;
 * Matplotlib - Biblioteca de plotagem de gráficos.
+
+##  Python 2 x Python 3
+
+No curso em questão, será utilizado o [Python 3](https://www.python.org/download/releases/3.0/) por se tratar de uma versão mais recente e com um período de vida maior que o [Python 2](https://www.python.org/downloads/release/python-272/).
+
+
