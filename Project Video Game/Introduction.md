@@ -1,4 +1,4 @@
-                                                  #Video game sales
+                                                  # Video game sales
                                                  
 In this project I'm going to analyse a dataset where there are 16598 rows and 11 columns at the beginning. That db is about games with more than
 100.000 sales around the world in video games's history. The focus is to find some patterns, considering genre, release date, plataform and others attributes
@@ -6,7 +6,7 @@ In this project I'm going to analyse a dataset where there are 16598 rows and 11
 Here we have a dataset with unknown rows, that makes necessary a cleaning in order to get only the rows with every single variable. This will make the project more
 reliable and we'll get more insights from there.
 
-##Objectives:
+## Objectives:
 
 * Show the genres with more sales in history;
 * Compare the years with more sales;
