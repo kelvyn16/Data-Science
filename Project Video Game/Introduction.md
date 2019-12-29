@@ -1,4 +1,4 @@
-                                                  # Video game sales
+# Video game sales
                                                  
 In this project I'm going to analyse a dataset where there are 16598 rows and 11 columns at the beginning. That db is about games with more than
 100.000 sales around the world in video games's history. The focus is to find some patterns, considering genre, release date, plataform and others attributes
